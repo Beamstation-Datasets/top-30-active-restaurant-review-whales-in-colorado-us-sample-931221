@@ -1,0 +1,22 @@
+{
+  "base_price": 2995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "--High-Volume, Active targets--\n\nPopular restaurants sitting in the Top 30% of their local market for proven foot traffic and review volume within the last 90 days and a state-wide market scope.\n\nThese are the highest-velocity, actively transacting accounts for payment processing, POS systems, and supply chain sales.\n\nValidated by an \"Active Heartbeat\" signal.",
+  "config_name": "Top 30% Active Restaurant Review Whales in Colorado, US",
+  "export_job_id": "743a903a-310d-4255-b1bb-0d4617d01448",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 931221,
+  "location_name": "Colorado",
+  "location_type": "state",
+  "repo_name": "top-30-active-restaurant-review-whales-in-colorado-us-sample-931221",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/931221/beamstation_931221_restaurants-us-co_SAMPLE_DIST.csv",
+  "sample_pct": 9.86,
+  "sample_records": 369,
+  "sample_sha256": "01f403c76e2424f123ada935725f2539b672b0e93f62a131359a48d4e84febae",
+  "sample_size_bytes": 1529517,
+  "total_records": 3743,
+  "updated_at": "2026-04-08T02:47:44.214326+00:00"
+}
