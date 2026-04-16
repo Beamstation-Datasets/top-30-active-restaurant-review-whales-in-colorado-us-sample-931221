@@ -1,0 +1,12 @@
+{
+  "export_job_id": "743a903a-310d-4255-b1bb-0d4617d01448",
+  "id_short": 931221,
+  "published_at": "2026-04-16T19:31:57Z",
+  "repo_name": "top-30-active-restaurant-review-whales-in-colorado-us-sample-931221",
+  "sample_asset_name": "beamstation_931221_restaurants-us-co_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/931221/beamstation_931221_restaurants-us-co_SAMPLE_DIST.csv",
+  "sample_records": 369,
+  "sample_sha256": "01f403c76e2424f123ada935725f2539b672b0e93f62a131359a48d4e84febae",
+  "sample_size_bytes": 1529517,
+  "total_records": 3743
+}
