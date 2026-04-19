@@ -9,9 +9,9 @@
 | Dataset ID | `931221` |
 | Location | Colorado |
 | Category | Restaurants |
-| Full dataset size | 3,743 records |
-| Free sample size | 369 records (9.86%) |
-| Last export | 2026-04-08T02:47:44.214326+00:00 |
+| Full dataset size | 3,691 records |
+| Free sample size | 369 records (10.0%) |
+| Last export | 2026-04-15T08:00:24.056787+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-30-active-restaurant-review-whales-in-colorado-us-sample-931221/releases/download/sample-latest/beamstation_931221_restaurants-us-co_SAMPLE_DIST.csv) |
 
 ## What is in this sample
